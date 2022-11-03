@@ -3,5 +3,6 @@
 /.vs
 /Build
 /Plugins
+/Content/Resources
 *.sln
 *_BuiltData.uasset
