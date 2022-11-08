@@ -4,5 +4,6 @@
 /Build
 /Plugins
 /Content/Resources
+/Binaries
 *.sln
 *_BuiltData.uasset
